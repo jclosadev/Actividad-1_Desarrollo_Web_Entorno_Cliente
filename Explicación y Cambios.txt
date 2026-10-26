@@ -1,0 +1,7 @@
+He cambiado los productos del carrito de ejemplo que nos has dado, por unos productos reales añadiendo SKU mas realistas
+y categoria de producto y descripción y toda la sintaxis del JSON en español para facilitar su lectura a cualquier persona
+que quiera leer o modificar el codigo y he dejado mi nombre en varios sitios para que se vea que es mi carrito jeje
+
+No he profundizado en realizar cambios y añadir funciones extras como añadir descuentos, ofertas, carrito virtual añadido mediante botones
+o visualización de 0 stock y sistema de reservas de las unidades en la parte de la reserva en el carrito etc, imagino que para siguientes
+actividades haremos cosas mas avanzadas de este estilo :p
